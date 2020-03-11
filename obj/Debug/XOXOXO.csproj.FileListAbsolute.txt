@@ -1,0 +1,9 @@
+C:\Users\Marko\source\repos\XOXOXO\XOXOXO\bin\Debug\XOXOXO.exe.config
+C:\Users\Marko\source\repos\XOXOXO\XOXOXO\bin\Debug\XOXOXO.exe
+C:\Users\Marko\source\repos\XOXOXO\XOXOXO\bin\Debug\XOXOXO.pdb
+C:\Users\Marko\source\repos\XOXOXO\XOXOXO\obj\Debug\XOXOXO.csprojAssemblyReference.cache
+C:\Users\Marko\source\repos\XOXOXO\XOXOXO\obj\Debug\XOXOXO.From1.resources
+C:\Users\Marko\source\repos\XOXOXO\XOXOXO\obj\Debug\XOXOXO.Properties.Resources.resources
+C:\Users\Marko\source\repos\XOXOXO\XOXOXO\obj\Debug\XOXOXO.csproj.GenerateResource.cache
+C:\Users\Marko\source\repos\XOXOXO\XOXOXO\obj\Debug\XOXOXO.exe
+C:\Users\Marko\source\repos\XOXOXO\XOXOXO\obj\Debug\XOXOXO.pdb
